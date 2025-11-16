@@ -1,3 +1,13 @@
+* 577c193 2025-11-16 pieski| 
+|  pieski.json | 4 ++++
+|  pieski.xml  | 5 +++++
+|  readme.md   | 2 ++
+|  3 files changed, 11 insertions(+)
+
+* da8a8b4 2025-11-16 ok2| 
+|  log_album_1.csv | 8 ++++++++
+|  1 file changed, 8 insertions(+)
+
 * e424b77 2025-11-16 okk| 
 |  main.html | 4 ++--
 |  styl.css  | 9 +++++++++
