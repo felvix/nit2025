@@ -1,9 +1,25 @@
 .gd {
-    background-color: aquamarine;
+    background-color: rgb(243, 191, 213);
     font-family: 'Times New Roman', Times, serif;
 }
 
 nav {
     background-color: blanchedalmond;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:link {
+  color: #6ea5d5;
+}
+
+
+a:visited {
+  color: #919195;
+}
+
+a:hover {
+  color: #a486c3;
+}
+
+a:active {
+  color: #c86b7f;
 }
