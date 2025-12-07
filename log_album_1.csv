@@ -1,18 +1,45 @@
-* 577c193 2025-11-16 pieski| 
+*  a3aca02 2025-12-07 readme ostatnie| 
+|  jamnik.jpg | Bin 0 -> 92581 bytes
+|  readme.md  |  10 +++++++++-
+|  2 files changed, 9 insertions(+), 1 deletion(-)
+
+*  8cdeb70 2025-12-07 readme| 
+|  readme.md | 11 ++++++++---
+|  1 file changed, 8 insertions(+), 3 deletions(-)
+
+*  a6535f6 2025-12-05 mega| 
+|  readme.md | 6 +++++-
+|  1 file changed, 5 insertions(+), 1 deletion(-)
+
+*  3ce3fb6 2025-12-05 html css no i nie wiem co to .ds store| 
+|  .DS_Store | Bin 6148 -> 6148 bytes
+|  main.html |   1 +
+|  styl.css  |  18 +++++++++++++++++-
+|  3 files changed, 18 insertions(+), 1 deletion(-)
+
+*  8c40880 2025-12-05 nie mam pojecia co to??????| 
+|  .DS_Store | Bin 0 -> 6148 bytes
+|  1 file changed, 0 insertions(+), 0 deletions(-)
+
+*  747a150 2025-11-16 logi| 
+|  log_album_1.csv | 10 ++++++++++
+|  1 file changed, 10 insertions(+)
+
+*  577c193 2025-11-16 pieski| 
 |  pieski.json | 4 ++++
 |  pieski.xml  | 5 +++++
 |  readme.md   | 2 ++
 |  3 files changed, 11 insertions(+)
 
-* da8a8b4 2025-11-16 ok2| 
+*  da8a8b4 2025-11-16 ok2| 
 |  log_album_1.csv | 8 ++++++++
 |  1 file changed, 8 insertions(+)
 
-* e424b77 2025-11-16 okk| 
+*  e424b77 2025-11-16 okk| 
 |  main.html | 4 ++--
 |  styl.css  | 9 +++++++++
 |  2 files changed, 11 insertions(+), 2 deletions(-)
 
-* 0c546f3 2025-11-16 ok  
+*  0c546f3 2025-11-16 ok  
    main.html | 21 +++++++++++++++++++++
    1 file changed, 21 insertions(+)
